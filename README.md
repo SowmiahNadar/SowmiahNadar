@@ -15,9 +15,9 @@
 - **Duration**: October 2023 - Present
 - **Description**: As an Service Desk Analyst at Opendr, expertise in data management and analysis. Proficient in Excel, I troubleshoot technical issues, analyze data, and deliver efficient solutions. Committed to excellent customer service, strong problem-solving, and collaboration, I contribute to a positive user experience and enhance organizational efficiency.
 
-### Research Analyst at Code Academy
-- **Duration**: August 2022 - October 2023
-- **Description**: As an Research Analyst at Code Academy,I specialize in data analysis and research methodologies, delivering valuable insights for strategic decision-making. With strong analytical skills and attention to detail, I contribute to informed business decisions and organizational knowledge.
+### Data Analyst at Neural Thread
+- **Duration**: April 2023 to Oct 2023
+- **Description**: As a Data Analyst at Neural Thread Cloud, I analyze complex data sets to provide actionable insights, delivering valuable insights for strategic decision-making. With strong analytical skills and attention to detail, I contribute to informed business decisions and organizational knowledge.
 
 
 
